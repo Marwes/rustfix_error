@@ -1,0 +1,8 @@
+[package]
+name = "rustfix_error"
+version = "0.1.0"
+authors = ["Markus Westerlind <marwes91@gmail.com>"]
+
+[dependencies]
+serde_derive_state = "0.4"
+serde_state = "0.4"
